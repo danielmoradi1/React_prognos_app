@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_prognos_app/static/css/main.327ab79f.css",
+    "main.js": "/React_prognos_app/static/js/main.c7a92dd4.js",
+    "static/js/787.d9312eb8.chunk.js": "/React_prognos_app/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/React_prognos_app/index.html",
+    "main.327ab79f.css.map": "/React_prognos_app/static/css/main.327ab79f.css.map",
+    "main.c7a92dd4.js.map": "/React_prognos_app/static/js/main.c7a92dd4.js.map",
+    "787.d9312eb8.chunk.js.map": "/React_prognos_app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327ab79f.css",
+    "static/js/main.c7a92dd4.js"
+  ]
+}
